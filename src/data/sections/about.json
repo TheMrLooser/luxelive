@@ -1,0 +1,13 @@
+{
+    "image1": {
+        "url": "/images/home-page-1.jpeg",
+        "alt": "Image One"
+    },
+    "image2": {
+        "url": "/images/home-page-2.jpeg",
+        "alt": "Image One"
+    },
+    "title": "Constro Provides a full range of services",
+    "subtitle": "Welcome to Our Company",
+    "text": "We successfully cope with tasks of varying complexity, provide long-term guarantees and regularly master new technologies. Our portfolio includes dozens of successfully completed projects of houses of different storeys, with high–quality finishes and good repairs. Building houses is our vocation!"
+}

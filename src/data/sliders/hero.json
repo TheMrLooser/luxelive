@@ -1,0 +1,31 @@
+{
+    "items": [
+        {
+            "image": "images/banner-1.jpg",
+            "title": "Create the Building You Want Here",
+            "text": "Builty is a construction and architecture environmentally most responsible for any kinds of themes.",
+            "button": {
+                "label": "Start Consulting",
+                "link": "/contact"
+            }
+        },
+        {
+            "image": "images/banner-2.jpeg",
+            "title": "A Better Way To Build Your Dreams",
+            "text": "Builty is a construction and architecture environmentally most responsible for any kinds of themes.",
+            "button": {
+                "label": "Estimate Price",
+                "link": "/services"
+            }
+        },
+        {
+            "image": "images/banner-3.jpeg",
+            "title": "Builty Innovative & Industrial Solutions",
+            "text": "Builty is a construction and architecture environmentally most responsible for any kinds of themes.",
+            "button": {
+                "label": "Start Consulting",
+                "link": "/contact"
+            }
+        }
+    ]
+}

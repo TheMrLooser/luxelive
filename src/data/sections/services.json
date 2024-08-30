@@ -1,0 +1,64 @@
+{
+    "items": [
+        {
+            "icon": {
+                "light": "/images/icon-1.svg",
+                "dark": "/images/1-icon.png",
+                "alt": "icon"
+            },
+            "title": "Water Proofing",
+            "text": "Our waterproofing services protect your property from moisture and water damage, ensuring the longevity and durability of your building's structure.",
+            "link": "/services/service-1"
+        },
+        {
+            "icon": {
+                "light": "/images/icon-2.svg",
+                "dark": "/images/2-icon.png",
+                "alt": "icon"
+            },
+            "title": "Painting",
+            "text": "We offer professional painting services to refresh and revitalize your space, with a focus on quality and attention to detail for a flawless finish.",
+            "link": "/services/service-2"
+        },
+        {
+            "icon": {
+                "light": "/images/icon-3.svg",
+                "dark": "/images/3-icon.png",
+                "alt": "icon"
+            },
+            "title": "Remodeling",
+            "text": "Our remodeling services transform your space, whether it's a complete overhaul or targeted updates, creating environments that suit your needs and style.",
+            "link": "/services/service-3"
+        },
+        {
+            "icon": {
+                "light": "/images/icon-3.svg",
+                "dark": "/images/3-icon.png",
+                "alt": "icon"
+            },
+            "title": "PVC Wall Paneling",
+            "text": "PVC wall paneling provides a durable and stylish solution for your interiors, offering an easy-to-maintain alternative to traditional wall coverings.",
+            "link": "/services/service-3"
+        },
+        {
+            "icon": {
+                "light": "/images/icon-3.svg",
+                "dark": "/images/3-icon.png",
+                "alt": "icon"
+            },
+            "title": "Demolishing",
+            "text": "Our demolishing services are carried out with precision and safety in mind, ensuring a smooth and efficient process for your renovation or construction project.",
+            "link": "/services/service-3"
+        },
+        {
+            "icon": {
+                "light": "/images/icon-3.svg",
+                "dark": "/images/3-icon.png",
+                "alt": "icon"
+            },
+            "title": "Acoustic & Insulation",
+            "text": "We provide acoustic and insulation solutions to improve soundproofing and energy efficiency, creating comfortable and quiet environments in any space.",
+            "link": "/services/service-3"
+        }
+    ]
+}
