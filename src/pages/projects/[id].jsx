@@ -33,26 +33,8 @@ const ProjectDetail = ( props ) => {
   return (
     <Layouts>
       <PageBanner pageTitle={"Project Detail"} pageDesc={"our values and vaulted us to the top of our industry."} />
-
       <section className="gap detail-page">
-
         <div className="container">
-          <ul className="next-prev-projects">
-            {prev_id != 0 && prev_id != undefined &&
-            <li className="prev">
-              <Link href={`/projects/${prev_id}`}>
-                <i className='fa-solid fa-arrow-left-long' />
-              </Link>
-            </li>
-            }
-            {next_id != 0 && next_id != undefined &&
-            <li className="next">
-              <Link href={`/projects/${next_id}`}>
-                <i className='fa-solid fa-arrow-right-long' />
-              </Link>
-            </li>
-            }
-          </ul>
           <div className="row">
             <div className="col-lg-8 offset-lg-2">
               <div className="pr-dat">
@@ -109,7 +91,6 @@ const ProjectDetail = ( props ) => {
       
       {typeof postData.slider != "undefined" &&
         <>
-          {/* Project Detail Slider Start */}
           <div className="gap no-top project-detail-slider">
             <div className="container-fluid g-0">
               <Swiper
@@ -119,7 +100,7 @@ const ProjectDetail = ( props ) => {
                 {postData.slider.items.map((item, key) => (
                 <SwiperSlide key={`pds-slide-${key}`} className="swiper-slide">
                 <figure>
-                  <img src={item.image} alt={item.alt} />
+                  <img  style={{objectFit:"none"}} src={item.image} alt={item.alt} />
                 </figure>
                 </SwiperSlide>
                 ))}
@@ -127,12 +108,8 @@ const ProjectDetail = ( props ) => {
               </Swiper>
             </div>
           </div>
-          {/* Project Detail Slider Start */}
         </>
       }
-
-      <RelatedProjectsSection projects={props.related} />
-
       <CallToActionSection />
 
     </Layouts>

@@ -1,78 +1,75 @@
 ---
-#preview details
-image: "img/serv-i-2.svg"
-title: "Project Development"
-short: "Designing and Building The Most Beautiful Custom Homes."
+image: "/images/projets/painting-img-1.jpg"
+title: "Painting"
+short: "Transforming Spaces with Expert Painting Solutions."
 
-#full details
 description0:
   enabled: 1
   text1: "
     <h3>Service Details</h3>
-    <p>We successfully cope with tasks of varying complexity, provide long-term guarantees and regularly master new technologies. Our portfolio includes <span>dozens of successfully</span> completed projects of houses of different storeys, with high–quality finishes and good repairs. Building houses is our vocation!</p>
+    <p>Our painting services cover a wide range of needs, from interior wall painting to exterior home painting and even roof painting. With a focus on quality and attention to detail, we ensure that every project, big or small, is completed to the highest standards. Whether you want to refresh a single room or give your entire property a new look, our team of skilled painters is here to help you achieve the perfect finish.</p>
   "
   text2: "
     <h3>Service Benefits</h3>
     <ul>
-      <li>Better defined projects, reducing risk and increasing success</li>
-      <li>We provide legislative compliance</li>
-      <li>Cost savings by getting expert advice during the project strategy and estimating</li>
-      <li>Realistic pricing and project timescales</li>
-      <li>Global access to services from world-wide construction consultancy</li>
+      <li>High-quality paint and materials for a long-lasting finish</li>
+      <li>Expert color consultation to match your style and preferences</li>
+      <li>Thorough surface preparation to ensure smooth and even coverage</li>
+      <li>Professional application techniques for a flawless appearance</li>
+      <li>Quick and efficient service with minimal disruption to your daily life</li>
     </ul>
   "
 
-gallery: 
+gallery:
   enabled: 1
   items:
-      - image: /img/gallery-1.jpeg
-        alt: "image"
+      - image: /images/projects/painting/img-1.jpg
+        alt: "Interior Painting"
 
-      - image: /img/gallery-2.jpeg
-        alt: "image"
+      - image: /images/projects/painting/img-2.jpg
+        alt: "Exterior Painting"
 
-      - image: /img/gallery-3.jpeg
-        alt: "image"
-
-      - image: /img/gallery-4.jpeg
-        alt: "image"
-
-      - image: /img/gallery-5.jpeg
-        alt: "image"          
+      - image: /images/projects/painting/img-3.jpg
+        alt: "Decorative Wall Art"
+        
+      - image: /images/projects/painting/img-4.jpg
+        alt: "Team Working on Painting Project"
+      - image: /images/projects/painting/img-5.jpg
+        alt: "Team Working on Painting Project"
+      - image: /images/projects/painting/img-6.jpg
+        alt: "Team Working on Painting Project"
 
 checklist:
   enabled: 1
   title: What can we support with?
   items:
-    - Dedication to client satisfaction
-    - Dedication to client satisfaction
-    - Dedication to client satisfaction
-    - Dedication to client satisfaction
-    - Dedication to client satisfaction
-    - Dedication to client satisfaction
+    - Interior wall painting
+    - Exterior home painting
+    - Roof painting
+    - Trim and molding painting
+    - Stain and varnish application
+    - Color consultation and design advice
 
 accordion:
   enabled: 1
-  title: Reporting and Cost Control
+  title: Painting Tips & FAQs
   items:
-    - heading: Occupational Health Risk Management?
-      content: Commercial management in construction ensures the planning, execution, and coordination of a construction project from the start to finish. These are often for specific projects such as building or renovation projects that are sold or leased.
+    - heading: What is the best type of paint for interior walls?
+      content: The best type of paint for interior walls depends on the room and the desired finish. We recommend using high-quality, washable paints for durability and ease of maintenance.
 
-    - heading: What is commercial management in construction?
-      content: Commercial management in construction ensures the planning, execution, and coordination of a construction project from the start to finish. These are often for specific projects such as building or renovation projects that are sold or leased.
+    - heading: How often should I repaint the exterior of my home?
+      content: Exterior painting typically needs to be done every 5-10 years, depending on factors such as the quality of the previous paint job, weather conditions, and the type of siding.
 
-    - heading: Start a construction management?
-      content: Commercial management in construction ensures the planning, execution, and coordination of a construction project from the start to finish. These are often for specific projects such as building or renovation projects that are sold or leased.
+    - heading: Can roof painting help protect my home?
+      content: Yes, roof painting can provide an additional layer of protection against the elements, helping to extend the lifespan of your roof and improve energy efficiency.
 
-    - heading: Measure quality in construction projects?
-      content: Commercial management in construction ensures the planning, execution, and coordination of a construction project from the start to finish. These are often for specific projects such as building or renovation projects that are sold or leased.
+    - heading: How do you prepare surfaces before painting?
+      content: Proper surface preparation is key to a successful paint job. This includes cleaning, sanding, repairing any damage, and priming the surfaces to ensure the paint adheres well and lasts longer.
 
-    - heading: Prepare a construction project schedule?
-      content: Commercial management in construction ensures the planning, execution, and coordination of a construction project from the start to finish. These are often for specific projects such as building or renovation projects that are sold or leased.
+    - heading: Do you offer eco-friendly painting options?
+      content: Yes, we offer eco-friendly paints that are low in VOCs (volatile organic compounds), ensuring a healthier environment for your home or office.
 ---
 
-### Highest Expectations
+Our team of expert painters is dedicated to delivering top-notch painting services that transform your spaces. Whether it's a fresh coat of paint for your walls, a complete exterior makeover, or specialized roof painting, we use the best materials and techniques to achieve stunning results. With a commitment to quality and customer satisfaction, we make sure your home or business looks its absolute best.
 
-In addition to construction consultancy services **Bureau Veritas is a global leader in testing**, inspection and certification (TIC) and we have more than 190+ years of experience meaning that we also can assist you in other areas of your business if needed.
-
-Our knowledgeable cost management experts understand the importance of delivering a project to meet your expectations in terms of cost, time, and quality. We will work with you to find the right, flexible and valuable solutions. No matter what sector you operate in, or the **scale of your project**, our team have the experience and know-how to support you with your goals.
+Let us bring your vision to life with professional painting services that you can trust. From start to finish, we are here to guide you through every step of the process, ensuring a smooth and hassle-free experience.

@@ -1,55 +1,54 @@
 ---
 #preview
-title: Project Horizon Redevelopment
-image: /img/project1.jpeg
+title: Project Roof Waterproofing
+image: /images/projects/waterproofing-img-1.jpg
 short: "A modern, technology-enabled, wellness-focused workspace and sustainable office…"
-location: "United States"
-dates: "1999-2000"
+location: "New Delhi"
+dates: "2023"
 
 #full details
 checklist:
     title: What's Included in Project
     items:
         - Dedication to client satisfaction
-        - Teamwork and collabration
-        - Being leader in our profession
-        - Teamwork and collabration
-        - Pride in our works and excellences
+        - Teamwork and collaboration
+        - Leadership in our profession
+        - Pride in our work and excellence
 
 details:
     items:
         - label: Sectors
-          value: Affordable Housing
+          value: Commercial and Residential
           icon: /img/icon-pd-1.svg
 
         - label: Owner
-          value: Communities Development
+          value: Green Building Solutions Inc.
           icon: /img/icon-pd-2.svg
         
         - label: Square Feet
-          value: "Phase 1: 147,000 - Phase 2: 147,000"
+          value: "Total Area: 200,000"
           icon: /img/icon-pd-3.svg
         
         - label: Project Date
-          value: "Started: 1990 - Ending: 2000"
+          value: "Started: 1999 - Ending: 2000"
           icon: /img/icon-pd-4.svg
 
 
 slider: 
     items:
-        - image: /img/project2.jpeg
-          alt: "image"
+        - image: /images/projects/waterproofing/IMG-20240829-WA0017.jpg
+          alt: "Roof Waterproofing Process"
 
-        - image: /img/project3.jpeg
-          alt: "image"
+        - image: /images/projects/waterproofing/IMG-20240829-WA0018.jpg
+          alt: "Waterproofing Materials"
 
-        - image: /img/project4.jpeg
-          alt: "image"
+        - image: /images/projects/waterproofing/IMG-20240829-WA0022.jpg
+          alt: "Completed Waterproof Roof"
         
-        - image: /img/project5.jpeg
-          alt: "image"
+        - image: /images/projects/waterproofing/IMG-20240829-WA0026.jpg
+          alt: "Team Working on Roof Waterproofing"
+        - image: /images/projects/waterproofing/IMG-20240829-WA0016.jpg
+          alt: "Team Working on Roof Waterproofing"
 ---
 
-Most innovative and successful builders and real estate enterprises in the country, has been selected for the design-build expansion of Airsides A and E at Tampa International Airport. This expansion will support Hillsborough County Aviation Authority and Tampa International Airport as they project up to 38.8 million annual passengers, 402,000 tons of cargo per year and 344,000 annual aircraft operations.
-
-I learned that this waste product could be stabilised, reducing the potential for leachable heavy metals by 96%. Research has shown that the **Construction patent pending process demonstrates** that after metal extraction and recycling, any residual chemicals can be securely contained when utilised in hydraulically bound concrete products.
+Project Roof Waterproofing was a cutting-edge initiative focused on creating a sustainable and leak-free roofing solution for modern office buildings. This project not only enhanced the structural integrity of buildings but also ensured that the interiors remained dry and comfortable, regardless of external weather conditions. Our team utilized advanced materials and technology to achieve the best results, adhering to the highest standards of construction and environmental safety.

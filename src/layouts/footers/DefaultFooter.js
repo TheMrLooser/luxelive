@@ -10,7 +10,7 @@ const DefaultFooter = () => {
             <div className="footer-first">
                 <div className="footer-logo">
                     <Link href="/">
-                        <img src={appData.footer.logo.image} alt={appData.footer.logo.alt} />
+                        <img style={{width:"80px",height:"70px"}} src={appData.footer.logo.image} alt={appData.footer.logo.alt} />
                     </Link>
                 </div>
                 <div className="contact-info d-flex-all">

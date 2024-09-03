@@ -1,55 +1,61 @@
 ---
 #preview
-title: Atmosphere Housing
-image: /img/project5.jpeg
-short: "A modern, technology-enabled, wellness-focused workspace and sustainable office…"
-location: "London"
-dates: "1999-2000"
+title: Project Acoustic & Insulation
+image: /images/projects/acoustic-img-1.jpeg
+short: "Enhancing sound quality and thermal efficiency through advanced acoustic and insulation solutions…"
+location: "Greater Noida"
+dates: "2023-2024"
 
 #full details
 checklist:
     title: What's Included in Project
     items:
-        - Dedication to client satisfaction
-        - Teamwork and collabration
-        - Being leader in our profession
-        - Teamwork and collabration
-        - Pride in our works and excellences
+        - High-performance soundproofing solutions
+        - Thermal insulation for energy efficiency
+        - Use of eco-friendly and sustainable materials
+        - Custom solutions tailored to client needs
+        - Experienced team ensuring quality installation
 
 details:
     items:
         - label: Sectors
-          value: Affordable Housing
+          value: Residential, Commercial, and Industrial
           icon: /img/icon-pd-1.svg
 
         - label: Owner
-          value: Communities Development
+          value: Sound & Thermal Solutions Inc.
           icon: /img/icon-pd-2.svg
         
         - label: Square Feet
-          value: "Phase 1: 147,000 - Phase 2: 147,000"
+          value: "Total Insulated Area: 180,000"
           icon: /img/icon-pd-3.svg
         
         - label: Project Date
-          value: "Started: 1990 - Ending: 2000"
+          value: "Started: 2023 - Ending: 2024"
           icon: /img/icon-pd-4.svg
 
 
 slider: 
     items:
-        - image: /img/project5.jpeg
-          alt: "image"
+        - image: /images/projects/acoustic/img-1.jpg
+          alt: "Acoustic Panels Installation"
 
-        - image: /img/project6.jpeg
-          alt: "image"
+        - image: /images/projects/acoustic/img-2.jpg
+          alt: "Thermal Insulation in Walls"
 
-        - image: /img/project7.jpeg
-          alt: "image"
+        - image: /images/projects/acoustic/img-3.jpg
+          alt: "Soundproofing a Home Theater"
         
-        - image: /img/project8.jpeg
-          alt: "image"
+        - image: /images/projects/acoustic/img-4.jpg
+          alt: "Industrial Insulation Solutions"
+        - image: /images/projects/acoustic/img-5.jpg
+          alt: "Industrial Insulation Solutions"
+        - image: /images/projects/acoustic/img-6.jpg
+          alt: "Industrial Insulation Solutions"
+        - image: /images/projects/acoustic/img-7.jpg
+          alt: "Industrial Insulation Solutions"
+        - image: /images/projects/acoustic/img-8.jpg
+          alt: "Industrial Insulation Solutions"
 ---
 
-Most innovative and successful builders and real estate enterprises in the country, has been selected for the design-build expansion of Airsides A and E at Tampa International Airport. This expansion will support Hillsborough County Aviation Authority and Tampa International Airport as they project up to 38.8 million annual passengers, 402,000 tons of cargo per year and 344,000 annual aircraft operations.
-
-I learned that this waste product could be stabilised, reducing the potential for leachable heavy metals by 96%. Research has shown that the **Construction patent pending process demonstrates** that after metal extraction and recycling, any residual chemicals can be securely contained when utilised in hydraulically bound concrete products.
+Project Acoustic & Insulation is dedicated to improving the comfort and efficiency of spaces through state-of-the-art acoustic and insulation solutions. Our focus is on enhancing sound quality and controlling noise levels in residential, commercial, and industrial settings, while also providing thermal insulation to optimize energy use and maintain consistent indoor temperatures. We use high-quality, eco-friendly materials that not only meet but exceed industry standards. Our team of experts works closely with clients to understand their specific needs and deliver customized solutions that improve the acoustic environment and thermal efficiency of any space. With attention to detail and a commitment to excellence, Project Acoustic & Insulation ensures that every installation is done to the highest standards.

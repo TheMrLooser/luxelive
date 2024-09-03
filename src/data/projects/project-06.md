@@ -1,55 +1,53 @@
 ---
 #preview
-title: Old Colony Construction
-image: /img/project6.jpeg
-short: "A modern, technology-enabled, wellness-focused workspace and sustainable office…"
-location: "Lviv"
-dates: "1998-2000"
+title: Project PVC Wall Paneling
+image: /images/projects/pvc-wall-panaling-img-1.jpg
+short: "Modernizing interiors with durable, stylish, and low-maintenance PVC wall paneling solutions…"
+location: "United States"
+dates: "2024-2025"
 
 #full details
 checklist:
     title: What's Included in Project
     items:
-        - Dedication to client satisfaction
-        - Teamwork and collabration
-        - Being leader in our profession
-        - Teamwork and collabration
-        - Pride in our works and excellences
+        - High-quality, durable PVC wall panels
+        - Wide range of colors and textures
+        - Easy installation and maintenance
+        - Custom designs tailored to client preferences
+        - Eco-friendly and cost-effective solutions
 
 details:
     items:
         - label: Sectors
-          value: Affordable Housing
+          value: Residential, Commercial, and Hospitality
           icon: /img/icon-pd-1.svg
 
         - label: Owner
-          value: Communities Development
+          value: Modern Interiors Inc.
           icon: /img/icon-pd-2.svg
         
         - label: Square Feet
-          value: "Phase 1: 147,000 - Phase 2: 147,000"
+          value: "Total Paneled Area: 120,000"
           icon: /img/icon-pd-3.svg
         
         - label: Project Date
-          value: "Started: 1990 - Ending: 2000"
+          value: "Started: 2024 - Ending: 2025"
           icon: /img/icon-pd-4.svg
 
 
 slider: 
     items:
-        - image: /img/project4.jpeg
-          alt: "image"
+        - image: /img/pvc1.jpeg
+          alt: "Modern Living Room with PVC Wall Panels"
 
-        - image: /img/project5.jpeg
-          alt: "image"
+        - image: /img/pvc2.jpeg
+          alt: "PVC Wall Panels in a Commercial Space"
 
-        - image: /img/project6.jpeg
-          alt: "image"
+        - image: /img/pvc3.jpeg
+          alt: "Installation of PVC Wall Panels"
         
-        - image: /img/project7.jpeg
-          alt: "image"
+        - image: /img/pvc4.jpeg
+          alt: "PVC Paneling in a Hotel Lobby"
 ---
 
-Most innovative and successful builders and real estate enterprises in the country, has been selected for the design-build expansion of Airsides A and E at Tampa International Airport. This expansion will support Hillsborough County Aviation Authority and Tampa International Airport as they project up to 38.8 million annual passengers, 402,000 tons of cargo per year and 344,000 annual aircraft operations.
-
-I learned that this waste product could be stabilised, reducing the potential for leachable heavy metals by 96%. Research has shown that the **Construction patent pending process demonstrates** that after metal extraction and recycling, any residual chemicals can be securely contained when utilised in hydraulically bound concrete products.
+Project PVC Wall Paneling is focused on transforming interior spaces with stylish and practical PVC wall paneling solutions. Ideal for residential, commercial, and hospitality environments, our PVC panels offer a modern aesthetic with the added benefits of durability, water resistance, and low maintenance. Available in a wide range of colors, textures, and designs, these panels can be customized to fit any decor style and preference. Our expert team ensures a seamless installation process, delivering high-quality results that enhance the visual appeal and functionality of spaces. Project PVC Wall Paneling is committed to providing eco-friendly, cost-effective solutions that stand the test of time, making it the perfect choice for modern interior design.

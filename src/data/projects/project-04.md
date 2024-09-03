@@ -1,55 +1,53 @@
 ---
 #preview
-title: The Stella & Bluewater
-image: /img/project4.jpeg
-short: "A modern, technology-enabled, wellness-focused workspace and sustainable office…"
-location: "Dubai"
-dates: "2004-2005"
+title: Project Remodeling
+image: /images/projects/remodaling-img-1.jpg
+short: "Transforming spaces into modern, functional, and aesthetically pleasing environments…"
+location: "Noida"
+dates: "2022-2024"
 
 #full details
 checklist:
     title: What's Included in Project
     items:
-        - Dedication to client satisfaction
-        - Teamwork and collabration
-        - Being leader in our profession
-        - Teamwork and collabration
-        - Pride in our works and excellences
+        - Comprehensive design and planning services
+        - Use of high-quality, sustainable materials
+        - Skilled craftsmanship and attention to detail
+        - Collaboration with clients for customized solutions
+        - Adherence to timelines and budget
 
 details:
     items:
         - label: Sectors
-          value: Affordable Housing
+          value: Residential, Commercial, and Retail
           icon: /img/icon-pd-1.svg
 
         - label: Owner
-          value: Communities Development
+          value: Modern Spaces Renovations Inc.
           icon: /img/icon-pd-2.svg
         
         - label: Square Feet
-          value: "Phase 1: 147,000 - Phase 2: 147,000"
+          value: "Total Renovated Area: 250,000"
           icon: /img/icon-pd-3.svg
         
         - label: Project Date
-          value: "Started: 1990 - Ending: 2000"
+          value: "Started: 2024 - Ending: 2025"
           icon: /img/icon-pd-4.svg
 
 
 slider: 
     items:
-        - image: /img/project3.jpeg
-          alt: "image"
+        - image: /img/remodeling1.jpeg
+          alt: "Living Room Remodeling"
 
-        - image: /img/project4.jpeg
-          alt: "image"
+        - image: /img/remodeling2.jpeg
+          alt: "Modern Kitchen Renovation"
 
-        - image: /img/project5.jpeg
-          alt: "image"
+        - image: /img/remodeling3.jpeg
+          alt: "Retail Space Transformation"
         
-        - image: /img/project6.jpeg
-          alt: "image"
+        - image: /img/remodeling4.jpeg
+          alt: "Office Space Remodeling"
 ---
 
-Most innovative and successful builders and real estate enterprises in the country, has been selected for the design-build expansion of Airsides A and E at Tampa International Airport. This expansion will support Hillsborough County Aviation Authority and Tampa International Airport as they project up to 38.8 million annual passengers, 402,000 tons of cargo per year and 344,000 annual aircraft operations.
-
-I learned that this waste product could be stabilised, reducing the potential for leachable heavy metals by 96%. Research has shown that the **Construction patent pending process demonstrates** that after metal extraction and recycling, any residual chemicals can be securely contained when utilised in hydraulically bound concrete products.
+Project Remodeling focuses on transforming outdated or inefficient spaces into modern, functional, and aesthetically appealing environments. Our team of experienced designers and craftsmen work closely with clients to understand their vision, ensuring that each remodeling project meets their unique needs and preferences. From residential living rooms and kitchens to commercial office spaces and retail environments, we specialize in creating layouts that maximize space, improve functionality, and enhance visual appeal. With a commitment to using high-quality, sustainable materials and innovative design solutions, Project Remodeling is dedicated to delivering results that exceed expectations and stand the test of time.

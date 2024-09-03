@@ -53,6 +53,7 @@ const DefaultHeader = ({ contactButton, cartButton }) => {
                       <Link href="/">
                         <figure>
                           <img
+                            style={{width:"90px",height:"80px",borderRadius:"50%"}}
                             src={appData.header.logo.image}
                             alt={appData.header.logo.alt}
                           />

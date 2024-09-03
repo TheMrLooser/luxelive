@@ -41,7 +41,7 @@ const ServiceDetail = ( { postData } ) => {
                 <div key={`gallery-item-${key}`} className={key == 0 ? "col-lg-12" : "col-lg-3 col-md-6 col-sm-12"}>
                   <figure>
                     <a data-fancybox="gallery" href={item.image}>
-                      <img className="img-fluid w-100" src={item.image} alt={item.alt} />
+                      <img style={{objectFit:"contain",maxHeight:"500px"}} className="img-fluid w-100" src={item.image} alt={item.alt} />
                     </a>
                   </figure>
                 </div>
