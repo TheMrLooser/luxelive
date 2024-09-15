@@ -28,7 +28,7 @@ const Layouts = ({
 
   return (
     <>
-      <Preloader />
+      {/* <Preloader /> */}
 
       {!noHeader && (
         <Header
