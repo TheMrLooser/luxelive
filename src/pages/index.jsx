@@ -1,3 +1,4 @@
+"use client"
 import React from "react";
 import Layouts from "@layouts/Layouts";
 import dynamic from "next/dynamic";
@@ -10,8 +11,8 @@ import ServicesSection from "@components/sections/Services";
 import CountersSection from "@components/sections/Counters";
 import FeaturesSection from "@components/sections/Features";
 import RenovationSection from "@components/sections/Renovation";
+import HeroSlider from "../components/sliders/Hero";
 
-const HeroSlider = dynamic( () => import("@components/sliders/Hero"), { ssr: false } );
 const TestimonialSlider = dynamic( () => import("@components/sliders/Testimonial"), { ssr: false } );
 const ProjectsSlider = dynamic( () => import("@components/sliders/Projects"), { ssr: false } );
 

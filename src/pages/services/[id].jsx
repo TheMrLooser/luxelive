@@ -32,16 +32,16 @@ const ServiceDetail = ( { postData } ) => {
               }
             </>
           }
-
+          <h5 style={{margin:"10px"}}>Real work sites images</h5>
           {typeof postData.gallery != "undefined" &&
             <>
               {postData.gallery.enabled == 1 &&
               <div className="row s-d-gallery">
                 {postData.gallery.items.map((item, key) => (
-                <div key={`gallery-item-${key}`} className={key == 0 ? "col-lg-12" : "col-lg-3 col-md-6 col-sm-12"}>
+                <div key={`gallery-item-${key}`} className={"col-lg-3 col-md-6 col-sm-12"}>
                   <figure>
                     <a data-fancybox="gallery" href={item.image}>
-                      <img style={{objectFit:"contain",maxHeight:"500px"}} className="img-fluid w-100" src={item.image} alt={item.alt} />
+                      <img style={{objectFit:"fill",height:"150px", width:"150px"}} className="img-fluid w-100" src={item.image} alt={item.alt} />
                     </a>
                   </figure>
                 </div>

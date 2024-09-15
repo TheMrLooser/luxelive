@@ -23,19 +23,27 @@ description0:
 gallery:
   enabled: 1
   items:
-      - image: /img/gallery-acoustic-1.jpeg
+      - image: /images/projects/acoustic/img-12.jpg
         alt: "Office acoustic panels"
 
-      - image: /img/gallery-acoustic-2.jpeg
+      - image: /images/projects/acoustic/img-1.jpg
         alt: "Home theater soundproofing"
 
-      - image: /img/gallery-acoustic-3.jpeg
+      - image: /images/projects/acoustic/img-13.jpg
         alt: "Insulation installation in walls"
 
-      - image: /img/gallery-acoustic-4.jpeg
+      - image: /images/projects/acoustic/img-14.jpg
         alt: "Acoustic treatment in conference room"
 
-      - image: /img/gallery-acoustic-5.jpeg
+      - image: /images/projects/acoustic/img-15.jpg
+        alt: "Energy-efficient insulation solutions"
+      - image: /images/projects/acoustic/img-17.jpg
+        alt: "Energy-efficient insulation solutions"
+      - image: /images/projects/acoustic/img-16.jpg
+        alt: "Energy-efficient insulation solutions"
+      - image: /images/projects/acoustic/img-2.jpg
+        alt: "Energy-efficient insulation solutions"
+      - image: /images/projects/acoustic/img-3.jpg
         alt: "Energy-efficient insulation solutions"
 
 checklist:
